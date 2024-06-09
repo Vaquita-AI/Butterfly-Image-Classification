@@ -1,4 +1,4 @@
-# Butterfly Species Classification with ResNet50
+ # Butterfly Species Classification with ResNet50
 
 ## Overview
 This project utilizes the ResNet50 architecture to classify butterfly species. The model is fine-tuned on a combined dataset of butterfly images and then split into training and testing sets programmatically, rather than using predefined folders.
