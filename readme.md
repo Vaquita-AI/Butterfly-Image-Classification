@@ -23,7 +23,8 @@ This project utilizes the ResNet50 architecture to classify butterfly species. T
 - NumPy
 - Matplotlib
 - Pillow
-To install the required dependencies, run:
+
+- To install the required dependencies, run:
 ```bash
 pip install tensorflow keras pandas numpy matplotlib pillow
 ```
